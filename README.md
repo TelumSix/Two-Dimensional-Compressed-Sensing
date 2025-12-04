@@ -17,7 +17,6 @@ Technical Details
 
 - Transform Domain: 2D Discrete Cosine Transform (DCT)
 - Optimization Method: L-BFGS-B with L1 regularization
-- Processing: Each color channel is reconstructed independently
 
  Requirements
 
@@ -26,3 +25,5 @@ Technical Details
 - PIL (Pillow)
 - NumPy
 - SciPy
+
+Inspiration and further information: https://web.archive.org/web/20180630083729/http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/
